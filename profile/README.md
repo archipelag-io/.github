@@ -62,13 +62,14 @@ NATS → Coordinator → WebSocket → User
 | [`website`](https://github.com/archipelag-io/website) | Marketing site at [archipelag.io](https://archipelag.io) |
 | [`archipelag-python`](https://github.com/archipelag-io/archipelag-python) | Official Python SDK |
 | [`archipelag-js`](https://github.com/archipelag-io/archipelag-js) | JavaScript/TypeScript SDK with React hooks |
+| [`api-docs`](https://github.com/archipelag-io/api-docs) | Interactive API reference powered by Scalar |
 
 More repositories (coordinator, node agent, docs, workload containers, mobile agents) are private during the beta and will open up over time.
 
 ### Get involved
 
 - **Use AI** on the platform: [app.archipelag.io](https://app.archipelag.io)
-- **Host with your GPU**: grab the [node agent](https://github.com/archipelag-io/node-agent/releases)
+- **Host with your GPU**: join the [beta waitlist](https://archipelag.io/earn) to get started
 - **Build on the API**: read the [docs](https://docs.archipelag.io)
 - **Report bugs or ideas**: [open an issue](https://github.com/archipelag-io/website/issues) or email [hello@archipelag.io](mailto:hello@archipelag.io)
 
